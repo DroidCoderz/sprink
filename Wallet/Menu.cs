@@ -1,4 +1,4 @@
-using Plenteum.CryptoNote;
+//using Plenteum.CryptoNote;
 using System;
 
 namespace Wallet
